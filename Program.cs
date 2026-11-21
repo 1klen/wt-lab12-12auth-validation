@@ -31,8 +31,9 @@ else
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 
-// Стандартная регистрация Razor Pages
+// Стандартная регистрация Razor Pages и Session
 builder.Services.AddRazorPages();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -50,10 +51,13 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-// Обязательно: подключение статических файлов (CSS, JS, Bootstrap) ДО UseRouting
+app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 

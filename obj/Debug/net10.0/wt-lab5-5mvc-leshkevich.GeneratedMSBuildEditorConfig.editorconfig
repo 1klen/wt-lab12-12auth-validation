@@ -20,45 +20,53 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = wt_lab5_5mvc_leshkevich
 build_property.RootNamespace = wt_lab5_5mvc_leshkevich
-build_property.ProjectDir = /Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/
+build_property.ProjectDir = /Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich
+build_property.MSBuildProjectDirectory = /Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Cars/Create.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Cars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Cars/Delete.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Cars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Cars/Details.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Cars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Cars/Edit.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Cars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Cars/Index.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2Fycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/Shared/_Layout.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/_ViewImports.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vleshkevich/Development/C\#/wt-lab8-8razor-postgresql-leshkevich/Pages/_ViewStart.cshtml]
+[/Users/vleshkevich/Development/C\#/wt-lab12-12auth-validation-leshkevich/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

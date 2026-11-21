@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wt-lab5-5mvc-leshkevich")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a5362e5769d74277f6ef07576be81833ef0b37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ac3536fbf8697b706757132dd67a4b6ebbbdda")]
 [assembly: System.Reflection.AssemblyProductAttribute("wt-lab5-5mvc-leshkevich")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wt-lab5-5mvc-leshkevich")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

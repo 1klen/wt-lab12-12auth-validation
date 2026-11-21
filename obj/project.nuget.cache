@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cgoT84FAJiI=",
+  "dgSpecHash": "3+BMDafTtXo=",
   "success": true,
-  "projectFilePath": "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
+  "projectFilePath": "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
   "expectedPackageFiles": [
     "/Users/vleshkevich/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/vleshkevich/.nuget/packages/microsoft.build.framework/18.0.2/microsoft.build.framework.18.0.2.nupkg.sha512",

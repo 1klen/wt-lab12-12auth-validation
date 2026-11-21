@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/wt-lab5-5mvc-leshkevich.csproj": {}
+    "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/wt-lab5-5mvc-leshkevich.csproj": {}
   },
   "projects": {
-    "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/wt-lab5-5mvc-leshkevich.csproj": {
+    "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/wt-lab5-5mvc-leshkevich.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
+        "projectUniqueName": "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
         "projectName": "wt-lab5-5mvc-leshkevich",
-        "projectPath": "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
+        "projectPath": "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/wt-lab5-5mvc-leshkevich.csproj",
         "packagesPath": "/Users/vleshkevich/.nuget/packages/",
-        "outputPath": "/Users/vleshkevich/Development/C#/wt-lab8-8razor-postgresql-leshkevich/obj/",
+        "outputPath": "/Users/vleshkevich/Development/C#/wt-lab12-12auth-validation-leshkevich/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vleshkevich/.nuget/NuGet/NuGet.Config"
