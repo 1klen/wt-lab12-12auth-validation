@@ -1,0 +1,14 @@
+@page "{id:int?}"
+@model wt_lab5_5mvc_leshkevich.Pages.Cars.DeleteModel
+
+<h1>Удаление автомобиля</h1>
+
+@if (Model.Car != null)
+{
+    <p>Вы уверены, что хотите удалить <strong>@Model.Car.BrandModel</strong>?</p>
+    <form method="post">
+        <input type="hidden" asp-for="Car.Id" />
+        <button type="submit" class="btn btn-danger">Удалить</button>
+        <a asp-page="./Index" class="btn btn-secondary">Отмена</a>
+    </form>
+}

@@ -1,0 +1,28 @@
+@page
+@model wt_lab5_5mvc_leshkevich.Pages.Cars.CreateModel
+@{
+        ViewData["Title"] = "Добавить автомобиль";
+    }
+<div class="container mt-4">
+    <h2>Добавить новый автомобиль</h2>
+    <form method="post" class="mt-3">
+        <div class="mb-3">
+            <label asp-for="Car.BrandModel" class="form-label">Модель</label>
+            <input asp-for="Car.BrandModel" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Car.Category" class="form-label">Категория</label>
+            <input asp-for="Car.Category" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Car.PricePerDay" class="form-label">Цена в сутки</label>
+            <input asp-for="Car.PricePerDay" class="form-control" type="number" />
+        </div>
+        <div class="mb-3 form-check">
+            <input asp-for="Car.IsAvailable" class="form-check-input" type="checkbox" />
+            <label asp-for="Car.IsAvailable" class="form-check-label">Доступен</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+        <a asp-page="Index" class="btn btn-secondary">Назад к каталогу</a>
+    </form>
+</div>

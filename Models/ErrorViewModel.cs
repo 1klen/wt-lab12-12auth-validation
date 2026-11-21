@@ -1,4 +1,4 @@
-namespace wt_lab4_4mvc_leshkevich.Models;
+namespace wt_lab5_5mvc_leshkevich.Models;
 
 public class ErrorViewModel
 {

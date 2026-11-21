@@ -1,0 +1,39 @@
+@page
+@model wt_lab5_5mvc_leshkevich.Pages.Cars.DetailsModel
+@{
+    ViewData["Title"] = "Детали автомобиля";
+}
+
+<div class="container py-4">
+    <div class="card shadow-sm rounded-4 p-4 col-12 col-md-8 mx-auto">
+        <h2 class="fw-bold mb-3">Информация об автомобиле</h2>
+        
+        <ul class="list-group list-group-flush mb-4">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="fw-bold">ID:</span>
+                <span class="badge bg-secondary">@Model.Car?.Id</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="fw-bold">Модель:</span>
+                <span>@Model.Car?.BrandModel</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="fw-bold">Категория:</span>
+                <span>@Model.Car?.Category</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="fw-bold">Цена в сутки:</span>
+                <span class="fs-5 fw-bold text-success">@Model.Car?.PricePerDay BYN</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="fw-bold">Статус:</span>
+                <span>@(Model.Car?.IsAvailable == true ? "Доступен" : "Занят")</span>
+            </li>
+        </ul>
+
+        <div class="d-flex justify-content-between">
+            <a asp-page="Index" class="btn btn-secondary">Назад к списку</a>
+            <a asp-page="Edit" asp-route-id="@Model.Car?.Id" class="btn btn-primary">Редактировать</a>
+        </div>
+    </div>
+</div>
